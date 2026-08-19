@@ -35,6 +35,10 @@ CircleMorph allInstancesDo: [ :circle | circle delete ]
 
 ## Tools in Pharo Smalltalk VM
 
+Screenshot in Pharo 9 VM with a few open tools, such as System Browser, File Browser, Iceberg (2 windows):
+
+![pharo_smalltalk_screenshot](pharo_smalltalk_screenshot.png)
+
 ### System Browser
 
 To CRUD packages > classes within packages > methods and attributes . Basically (almost) everything.
